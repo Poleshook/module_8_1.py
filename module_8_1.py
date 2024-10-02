@@ -1,5 +1,4 @@
 def add_everything_up(a, b):
-    #if isinstance(a, (int, float)) and isinstance(b, (int, float)):
     try:
         result = a + b
         return result
